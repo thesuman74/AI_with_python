@@ -30,3 +30,7 @@ It is a technique used in Natural Language processing(NLP) **to determine the em
 3. Monitoring performance 
 4.  Identifying Targets/Demographics
 5. Determining effectiveness of marketing effort and so on 
+
+
+### Final output looks like this 
+![Alt text](image.png)
